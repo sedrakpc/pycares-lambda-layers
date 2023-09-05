@@ -1,6 +1,6 @@
 # pycares-lambda-layers
 
-**Solution for** `ModuleNotFoundError: No module named 'pycares._cares'`
+**Solution for aws lambda** `ModuleNotFoundError: No module named * for example 'pycares._cares'`
 
 ### To rebuild the layer use the command below(docker required) ↓
 
